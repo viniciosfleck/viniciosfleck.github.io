@@ -1,0 +1,47 @@
+body{
+    font-family: 'outfit';
+    background-color: hsl(212, 45%, 89%)   
+}
+
+h1{
+    color:hsl(218, 44%, 22%);
+}
+
+
+.code{
+    display:flex;
+    justify-content: center;
+    margin: 9%;
+}
+
+
+.description{   
+    color:hsl(220, 15%, 55%);
+    font-size: 17px;
+}
+
+.description-code{
+    width: 300px;
+    padding: 15px;
+    text-align: center;
+    background-color: white; 
+    border-radius: 1rem;              
+}
+
+.description-code .description img{
+    width: 300px;
+    height: 300px;
+    border-radius: 1rem;
+}
+
+.credits{
+    
+    font-size: 11px;
+    text-align: end;
+    padding: 15px;    
+}
+.credits a{
+    color: hsl(228, 45%, 44%);
+}
+
+
